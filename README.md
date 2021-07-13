@@ -4,7 +4,7 @@ Automation Using Selenium.
 InstaBot1  :- 
 This file contains a script to Automate your Instagram. You just have to provide your Instagram username and password.
 
-- Things which this script can do for you:-
+Things which this script can do for you:-
 - Log in to your Instagram Handle.
 - Type a specific word in the search bar and print all the names of the Instagram Handles that are displayed in the list after typing that word.
 - Searching and Opening a profile that you want to follow/unfollow.
